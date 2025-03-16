@@ -17,7 +17,7 @@
 
 - 활성화 함수 (Activation Function): 입력값과 가중치의 가중합을 계산한 후, 이 값을 바탕으로 출력값을 결정합니다. 일반적으로 계단 함수(Step Function)가 사용됩니다.
 
-- 출력 (Output): 최종적으로 퍼셉트론은 0 또는 1의 값을 출력하여 입력 데이터를 분류합니다.[Uploading perceptron.ipynb…]()
+- 출력 (Output): 최종적으로 퍼셉트론은 0 또는 1의 값을 출력하여 입력 데이터를 분류합니다.
 
 
 ![image](https://github.com/user-attachments/assets/ec0a6ef0-c07a-4b36-be93-11cfbacb5f18)
