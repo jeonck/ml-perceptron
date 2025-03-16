@@ -20,5 +20,6 @@
 - 출력 (Output): 최종적으로 퍼셉트론은 0 또는 1의 값을 출력하여 입력 데이터를 분류합니다.[Uploading perceptron.ipynb…]()
 
 
+![image](https://github.com/user-attachments/assets/ec0a6ef0-c07a-4b36-be93-11cfbacb5f18)
 
 
